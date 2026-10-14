@@ -1,4 +1,4 @@
-# Activity 6: Simple Note
+# Activity 6: Google Workspace Apps
 
 
 ## 1. Summarize Yesterday’s Emails

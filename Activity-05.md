@@ -1,79 +1,86 @@
-# Activity 5: Investor Inquiry Email
 
-Use this activity to practice summarizing investor requests and drafting a professional reply from the BOI Sri Lanka perspective.
+# Activity 5: Public Administration Inquiry Email
+
+Use this activity to practice summarizing public sector inquiries and drafting professional email replies from the perspective of the Ministry of Public Administration.
 
 ---
 
-## Sample Investor Inquiry
+## Resource 1: Sample Inquiry Email
 
-Use the example below as the source email for the exercises.
+Use the following email as the source for the exercises.
 
-```text
-Dear BOI Team,
-
-We are a manufacturing company based in Singapore and are exploring opportunities to establish a production facility in South Asia. Sri Lanka is one of the countries we are considering due to its strategic location, port access, and skilled workforce.
-
-Our company is particularly interested in setting up a light manufacturing facility for electronic components. The estimated investment would be around USD 8 million in the first phase, with potential expansion in the future. We expect to create approximately 150 direct jobs within the first two years.
-
-We would like to understand the incentives available for foreign investors, the process for obtaining approvals, possible industrial zone locations, expected timelines, and support available for export-oriented businesses.
-
-Could you please advise us on the next steps and whether BOI can arrange an introductory discussion?
-
-Kind regards,
-Daniel Lee
-Regional Expansion Manager
-```
+> Dear Ministry of Public Administration Team,
+>
+> We are a public sector institution seeking to improve our administrative processes and the delivery of services to citizens. We are exploring opportunities to digitize internal workflows and make government services more efficient and accessible.
+>
+> Our institution is particularly interested in implementing a digital document management system to streamline official correspondence, circulars, and administrative records. We expect the initiative to reduce document processing times and improve coordination among departments within the first two years.
+>
+> We would like to understand the applicable government policies and circulars, the approval process, available digital solutions, implementation requirements, and support available for public sector institutions.
+>
+> Could you please advise us on the next steps and whether the Ministry can arrange an introductory discussion?
+>
+> Kind regards,  
+> Nimal Perera  
+> Administrative Officer
 
 ---
 
 ## Exercise 1: Summarize the Inquiry
 
-Create a concise summary of the investor inquiry in five bullet points. Include:
+### Prompt
 
-- Who the investor is
-- Sector of interest
-- Estimated investment value
-- Expected benefits to Sri Lanka
-- What information they are requesting
+Summarize the inquiry email in **five bullet points**. Include the following information:
 
-```text
-Summarize the investor inquiry below in 5 bullet points. Include:
+1. **Who is making the inquiry:** Identify the institution and the person contacting the Ministry.
+2. **Area of administrative improvement:** Identify the processes or services they want to improve.
+3. **Proposed digital solution:** Describe the solution they are considering.
+4. **Expected benefits:** Identify the anticipated improvements to public sector operations and service delivery.
+5. **Requested information and support:** Summarize the guidance and assistance they need from the Ministry.
 
-1. Who the investor is
-2. Sector of interest
-3. Estimated investment value
-4. Expected benefits to Sri Lanka
-5. What information they are requesting
+### Input
 
-Investor inquiry:
-[paste email here]
-```
+**Inquiry email:**
+
+[Paste the sample email here]
+
+### Expected output
+
+A concise summary containing five bullet points, covering all five areas listed above.
 
 ---
 
-## Exercise 2: Draft the Email Reply
+## Exercise 2: Draft an Email Reply
 
-Draft a professional and friendly response from a BOI Sri Lanka investment promotion officer.
+### Prompt
 
-The reply should:
+Act as an officer at the Ministry of Public Administration. Draft a professional, friendly, and concise reply to the inquiry email.
 
-- Thank them for their interest in Sri Lanka
-- Acknowledge their proposed investment
-- Mention that BOI can guide them on investment opportunities, incentives, approvals, industrial zones, and export support
-- Suggest arranging an introductory discussion
-- Keep the email concise and professional
+Your reply should:
 
-```text
-Act as a BOI Sri Lanka investment promotion officer. Draft a professional and friendly reply to the investor below.
+- Thank the sender for contacting the Ministry.
+- Acknowledge their interest in improving administrative processes and public service delivery.
+- Explain that the Ministry can guide them on relevant government policies, circulars, administrative procedures, digital transformation initiatives, and applicable approval requirements.
+- Suggest arranging an introductory discussion to better understand their requirements.
+- Maintain a professional and helpful tone.
+- Avoid making unverified commitments or guaranteeing approvals, timelines, or outcomes.
 
-The reply should:
+### Input
 
-* Thank them for their interest in Sri Lanka
-* Acknowledge their proposed investment
-* Mention that BOI can guide them on investment opportunities, incentives, approvals, industrial zones, and export support
-* Suggest arranging an introductory discussion
-* Keep the email concise and professional
+**Inquiry email:**
 
-Investor inquiry:
-[paste email here]
-```
+[Paste the sample email here]
+
+### Expected output
+
+A professionally formatted email reply that includes an appropriate subject line, greeting, concise body, closing, and sender designation.
+
+---
+
+## Activity Completion
+
+Review both outputs and check whether:
+
+- The summary accurately captures the key information in the original inquiry.
+- The email reply addresses the sender's main concerns.
+- The language is clear, professional, and appropriate for government communication.
+- The response avoids inventing policies, procedures, or commitments not established in the source material.
